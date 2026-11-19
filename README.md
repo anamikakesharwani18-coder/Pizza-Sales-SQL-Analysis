@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project focuses on analysing pizza sales data using PostgreSQL to identify sales trends, customer ordering patterns, and revenue performance.
+Also this project includes 22 SQL business analysis queries covering sales performance, revenue analysis, product performance, and ordering trends.
 
 ## Tools Used
 - PostgreSQL
@@ -37,4 +38,4 @@ This project focuses on analysing pizza sales data using PostgreSQL to identify 
 - Average Order Value: Approximately 38.31
 
 ## Project Status
-In Progress
+Completed
